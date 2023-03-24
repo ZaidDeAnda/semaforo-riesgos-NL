@@ -1,0 +1,499 @@
+,Year,Period,Sexo,L1,L2,L3,L4,Total,Coeficiente de variacion,Error estandar,LIIC,LSIC
+0,2022,4,Hombre,I.  Población total 1, ,, ,2116430.0,1.465177,31009,2065419.463,2148450.794
+1,2022,4,Mujer,I.  Población total 1, ,, ,2203609.0,1.521632,33530,2167440.537,2258767.206
+2,2022,4,Hombre,2. Población de 15 años y más, ,, ,1695207.0,1.40337,23790,1656072.396,1739832.31
+3,2022,4,Mujer,2. Población de 15 años y más, ,, ,1781556.0,1.423696,25363,1734341.604,1823279.69
+4,2022,4,Hombre,2. Población de 15 años y más,Población económicamente activa (PEA),, ,1286681.0,1.718937,22117,1250298.141,800925.69
+5,2022,4,Mujer,2. Población de 15 años y más,Población económicamente activa (PEA),, ,834512.0,2.446605,20417,1323063.859,868098.31
+6,2022,4,Hombre,2. Población de 15 años y más,Población económicamente activa (PEA),Ocupada, ,1244099.0,1.728262,21501,1208729.376,770144.88
+7,2022,4,Mujer,2. Población de 15 años y más,Población económicamente activa (PEA),Ocupada, ,802670.0,2.463292,19772,1279468.624,835195.12
+8,2022,4,Hombre,2. Población de 15 años y más,Población económicamente activa (PEA),Desocupada, ,42582.0,11.309893,4815,34659.715,24412.634
+9,2022,4,Mujer,2. Población de 15 años y más,Población económicamente activa (PEA),Desocupada, ,31842.0,14.183569,4516,50504.285,39271.366
+10,2022,4,Hombre,2. Población de 15 años y más,Población no económicamente activa (PNEA),, ,408526.0,3.614606,14766,384234.934,913584.954
+11,2022,4,Mujer,2. Población de 15 años y más,Población no económicamente activa (PNEA),, ,947044.0,2.147719,20339,432817.066,980503.046
+12,2022,4,Hombre,2. Población de 15 años y más,Población no económicamente activa (PNEA),Disponible, ,48094.0,10.305772,4956,39940.626,79801.439
+13,2022,4,Mujer,2. Población de 15 años y más,Población no económicamente activa (PNEA),Disponible, ,92414.0,8.29659,7667,56247.374,105026.561
+14,2022,4,Hombre,2. Población de 15 años y más,Población no económicamente activa (PNEA),No disponible, ,360432.0,3.975363,14328,336861.652,822078.688
+15,2022,4,Mujer,2. Población de 15 años y más,Población no económicamente activa (PNEA),No disponible, ,854630.0,2.315392,19788,384002.348,887181.312
+16,2022,4,Hombre,3. Población ocupada por:,Población no económicamente activa (PNEA),, ,1244099.0,1.728262,21501,1208729.376,770144.88
+17,2022,4,Mujer,3. Población ocupada por:,Población no económicamente activa (PNEA),, ,802670.0,2.463292,19772,1279468.624,835195.12
+18,2022,4,Hombre,3. Población ocupada por:,3.1 Posición en la ocupación,, ,1244099.0,1.728262,21501,1208729.376,770144.88
+19,2022,4,Mujer,3. Población ocupada por:,3.1 Posición en la ocupación,, ,802670.0,2.463292,19772,1279468.624,835195.12
+20,2022,4,Hombre,3. Población ocupada por:,3.1 Posición en la ocupación,Trabajadores subordinados y remunerados,,987701.0,2.148028,21216,952800.533,612257.785
+21,2022,4,Mujer,3. Población ocupada por:,3.1 Posición en la ocupación,Trabajadores subordinados y remunerados,,641204.0,2.744288,17596,1022601.467,670150.215
+22,2022,4,Hombre,3. Población ocupada por:,3.1 Posición en la ocupación,Trabajadores subordinados y remunerados,Asalariados,963754.0,2.17621,20973,929252.908,598513.547
+23,2022,4,Mujer,3. Población ocupada por:,3.1 Posición en la ocupación,Trabajadores subordinados y remunerados,Asalariados,627147.0,2.775482,17406,998255.092,655780.453
+24,2022,4,Hombre,3. Población ocupada por:,3.1 Posición en la ocupación,Trabajadores subordinados y remunerados,Con percepciones no salariales 7,23947.0,16.510544,3953,17443.032,9440.599
+25,2022,4,Mujer,3. Población ocupada por:,3.1 Posición en la ocupación,Trabajadores subordinados y remunerados,Con percepciones no salariales 7,14057.0,19.963883,2806,30450.968,18673.401
+26,2022,4,Hombre,3. Población ocupada por:,3.1 Posición en la ocupación,Empleadores,,53058.0,11.032071,5853,43429.163,12824.437
+27,2022,4,Mujer,3. Población ocupada por:,3.1 Posición en la ocupación,Empleadores,,17795.0,16.980156,3021,62686.837,22765.563
+28,2022,4,Hombre,3. Población ocupada por:,3.1 Posición en la ocupación,Trabajadores por cuenta propia,,193619.0,4.869262,9427,178110.243,105435.757
+29,2022,4,Mujer,3. Población ocupada por:,3.1 Posición en la ocupación,Trabajadores por cuenta propia,,119763.0,7.272338,8709,209127.757,134090.243
+30,2022,4,Hombre,3. Población ocupada por:,3.1 Posición en la ocupación,Trabajadores no remunerados,,9721.0,26.792021,2604,5436.676,18115.31
+31,2022,4,Mujer,3. Población ocupada por:,3.1 Posición en la ocupación,Trabajadores no remunerados,,23908.0,14.728929,3521,14005.324,29700.69
+32,2022,4,Hombre,3. Población ocupada por:,3.1 Posición en la ocupación,No especificado,,0.0,0,0,0,0
+33,2022,4,Mujer,3. Población ocupada por:,3.1 Posición en la ocupación,No especificado,,0.0,0,0,0,0
+34,2022,4,Hombre,3. Población ocupada por:,3.2 Sector de actividad económica,, ,1244099.0,1.728262,21501,1208729.376,770144.88
+35,2022,4,Mujer,3. Población ocupada por:,3.2 Sector de actividad económica,, ,802670.0,2.463292,19772,1279468.624,835195.12
+36,2022,4,Hombre,3. Población ocupada por:,3.2 Sector de actividad económica,Primario,,2907.0,41.96434,1219,900.259,0
+37,2022,4,Mujer,3. Población ocupada por:,3.2 Sector de actividad económica,Primario,,0.0,0,0,4913.741,0
+38,2022,4,Hombre,3. Población ocupada por:,3.2 Sector de actividad económica,Primario,"Agricultura, ganadería, silvicultura, caza y pesca",2907.0,41.96434,1219,900.259,0
+39,2022,4,Mujer,3. Población ocupada por:,3.2 Sector de actividad económica,Primario,"Agricultura, ganadería, silvicultura, caza y pesca",0.0,0,0,4913.741,0
+40,2022,4,Hombre,3. Población ocupada por:,3.2 Sector de actividad económica,Secundario,,473308.0,3.628232,17172,445058.886,137897.872
+41,2022,4,Mujer,3. Población ocupada por:,3.2 Sector de actividad económica,Secundario,,152185.0,5.706991,8685,501557.114,166472.128
+42,2022,4,Hombre,3. Población ocupada por:,3.2 Sector de actividad económica,Secundario,Industria extractiva y de la electricidad,5015.0,31.506018,1580,2415.856,66.413
+43,2022,4,Mujer,3. Población ocupada por:,3.2 Sector de actividad económica,Secundario,Industria extractiva y de la electricidad,1350.0,57.799718,780,7614.144,2633.587
+44,2022,4,Hombre,3. Población ocupada por:,3.2 Sector de actividad económica,Secundario,Industria manufacturera,338906.0,4.430497,15015,314205.963,129297.693
+45,2022,4,Mujer,3. Población ocupada por:,3.2 Sector de actividad económica,Secundario,Industria manufacturera,143349.0,5.958763,8541,363606.037,157400.307
+46,2022,4,Hombre,3. Población ocupada por:,3.2 Sector de actividad económica,Secundario,Construcción,129387.0,7.079565,9160,114318.739,4212.408
+47,2022,4,Mujer,3. Población ocupada por:,3.2 Sector de actividad económica,Secundario,Construcción,7486.0,26.583295,1990,144455.261,10759.592
+48,2022,4,Hombre,3. Población ocupada por:,3.2 Sector de actividad económica,Terciario,,762435.0,2.424501,18485,732026.775,616693.555
+49,2022,4,Mujer,3. Población ocupada por:,3.2 Sector de actividad económica,Terciario,,648103.0,2.946119,19093,792843.225,679512.445
+50,2022,4,Hombre,3. Población ocupada por:,3.2 Sector de actividad económica,Terciario,Comercio,214411.0,4.95893,10632,196920.551,170178.075
+51,2022,4,Mujer,3. Población ocupada por:,3.2 Sector de actividad económica,Terciario,Comercio,186511.0,5.323455,9928,231901.449,202843.925
+52,2022,4,Hombre,3. Población ocupada por:,3.2 Sector de actividad económica,Terciario,Restaurantes y servicios de alojamiento,76190.0,9.156384,6976,64714.071,59610.735
+53,2022,4,Mujer,3. Población ocupada por:,3.2 Sector de actividad económica,Terciario,Restaurantes y servicios de alojamiento,70615.0,9.473232,6689,87665.929,81619.265
+54,2022,4,Hombre,3. Población ocupada por:,3.2 Sector de actividad económica,Terciario,"Transportes, comunicaciones, correo y almacenamiento",122140.0,6.605858,8068,108867.489,23080.138
+55,2022,4,Mujer,3. Población ocupada por:,3.2 Sector de actividad económica,Terciario,"Transportes, comunicaciones, correo y almacenamiento",29469.0,13.179296,3883,135412.511,35857.862
+56,2022,4,Hombre,3. Población ocupada por:,3.2 Sector de actividad económica,Terciario,"Servicios profesionales, financieros y corporativos",146474.0,7.291392,10679,128905.411,98100.674
+57,2022,4,Mujer,3. Población ocupada por:,3.2 Sector de actividad económica,Terciario,"Servicios profesionales, financieros y corporativos",111460.0,7.286175,8121,164042.589,124819.326
+58,2022,4,Hombre,3. Población ocupada por:,3.2 Sector de actividad económica,Terciario,Servicios sociales,62099.0,9.619938,5973,52271.958,114344.227
+59,2022,4,Mujer,3. Población ocupada por:,3.2 Sector de actividad económica,Terciario,Servicios sociales,127408.0,6.233128,7941,71926.042,140471.773
+60,2022,4,Hombre,3. Población ocupada por:,3.2 Sector de actividad económica,Terciario,Servicios diversos,110319.0,7.042576,7769,97538.503,85885.607
+61,2022,4,Mujer,3. Población ocupada por:,3.2 Sector de actividad económica,Terciario,Servicios diversos,98643.0,7.861941,7755,123099.497,111400.393
+62,2022,4,Hombre,3. Población ocupada por:,3.2 Sector de actividad económica,Terciario,Gobierno y organismos internacionales,30802.0,12.756657,3929,24338.292,18168.189
+63,2022,4,Mujer,3. Población ocupada por:,3.2 Sector de actividad económica,Terciario,Gobierno y organismos internacionales,23997.0,14.765805,3543,37265.708,29825.811
+64,2022,4,Hombre,3. Población ocupada por:,3.2 Sector de actividad económica,No especificado,,5449.0,0,0,0,0
+65,2022,4,Mujer,3. Población ocupada por:,3.2 Sector de actividad económica,No especificado,,2382.0,0,0,0,0
+66,2022,4,Hombre,3. Población ocupada por:,3.3 Nivel de ingresos,, ,1244099.0,1.728262,21501,1208729.376,770144.88
+67,2022,4,Mujer,3. Población ocupada por:,3.3 Nivel de ingresos,, ,802670.0,2.463292,19772,1279468.624,835195.12
+68,2022,4,Hombre,3. Población ocupada por:,3.3 Nivel de ingresos,Hasta un salario mínimo,,126971.0,6.861315,8711,112639.958,150140.214
+69,2022,4,Mujer,3. Población ocupada por:,3.3 Nivel de ingresos,Hasta un salario mínimo,,166390.0,5.936829,9878,141302.042,182639.786
+70,2022,4,Hombre,3. Población ocupada por:,3.3 Nivel de ingresos,Más de 1 hasta 2 salarios mínimos,,427695.0,3.614033,15457,402268.172,291299.379
+71,2022,4,Mujer,3. Población ocupada por:,3.3 Nivel de ingresos,Más de 1 hasta 2 salarios mínimos,,313272.0,4.263776,13357,453121.828,335244.621
+72,2022,4,Hombre,3. Población ocupada por:,3.3 Nivel de ingresos,Más de 2 hasta 3 salarios mínimos,,284447.0,4.405881,12532,263831.209,83548.711
+73,2022,4,Mujer,3. Población ocupada por:,3.3 Nivel de ingresos,Más de 2 hasta 3 salarios mínimos,,95048.0,7.354652,6990,305062.791,106547.289
+74,2022,4,Hombre,3. Población ocupada por:,3.3 Nivel de ingresos,Más de 3 hasta 5 salarios mínimos,,131111.0,6.709991,8797,116639.052,48687.942
+75,2022,4,Mujer,3. Población ocupada por:,3.3 Nivel de ingresos,Más de 3 hasta 5 salarios mínimos,,58342.0,10.059182,5868,145582.948,67996.058
+76,2022,4,Hombre,3. Población ocupada por:,3.3 Nivel de ingresos,Más de 5 salarios mínimos,,65667.0,10.571213,6941,54247.741,17851.319
+77,2022,4,Mujer,3. Población ocupada por:,3.3 Nivel de ingresos,Más de 5 salarios mínimos,,25177.0,17.687976,4453,77086.259,32502.681
+78,2022,4,Hombre,3. Población ocupada por:,3.3 Nivel de ingresos,No recibe ingresos 8,,9721.0,26.792021,2604,5436.676,18115.31
+79,2022,4,Mujer,3. Población ocupada por:,3.3 Nivel de ingresos,No recibe ingresos 8,,23908.0,14.728929,3521,14005.324,29700.69
+80,2022,4,Hombre,3. Población ocupada por:,3.3 Nivel de ingresos,No especificado,,198487.0,0,0,0,0
+81,2022,4,Mujer,3. Población ocupada por:,3.3 Nivel de ingresos,No especificado,,120533.0,0,0,0,0
+82,2022,4,Hombre,3. Población ocupada por:,3.4 Duración de la jornada de trabajo,, ,1244099.0,1.728262,21501,1208729.376,770144.88
+83,2022,4,Mujer,3. Población ocupada por:,3.4 Duración de la jornada de trabajo,, ,802670.0,2.463292,19772,1279468.624,835195.12
+84,2022,4,Hombre,3. Población ocupada por:,3.4 Duración de la jornada de trabajo,Ausentes temporales con vínculo laboral,,22120.0,14.894701,3294,16700.206,12280.604
+85,2022,4,Mujer,3. Población ocupada por:,3.4 Duración de la jornada de trabajo,Ausentes temporales con vínculo laboral,,18048.0,19.426063,3506,27539.794,23815.396
+86,2022,4,Hombre,3. Población ocupada por:,3.4 Duración de la jornada de trabajo,Menos de 15 horas,,33086.0,13.410216,4436,25787.293,55548.496
+87,2022,4,Mujer,3. Población ocupada por:,3.4 Duración de la jornada de trabajo,Menos de 15 horas,,66383.0,9.921704,6586,40384.707,77217.504
+88,2022,4,Hombre,3. Población ocupada por:,3.4 Duración de la jornada de trabajo,De 15 a 34 horas,,115371.0,7.035246,8116,102019.138,138053.285
+89,2022,4,Mujer,3. Población ocupada por:,3.4 Duración de la jornada de trabajo,De 15 a 34 horas,,152315.0,5.691977,8669,128722.862,166576.715
+90,2022,4,Hombre,3. Población ocupada por:,3.4 Duración de la jornada de trabajo,De 35 a 48 horas,,729097.0,2.640068,19248,697432.957,421810.015
+91,2022,4,Mujer,3. Población ocupada por:,3.4 Duración de la jornada de trabajo,De 35 a 48 horas,,446461.0,3.356486,14985,760761.043,471111.985
+92,2022,4,Hombre,3. Población ocupada por:,3.4 Duración de la jornada de trabajo,Más de 48 horas,,328683.0,4.340626,14266,305213.949,102481.595
+93,2022,4,Mujer,3. Población ocupada por:,3.4 Duración de la jornada de trabajo,Más de 48 horas,,116219.0,7.185577,8351,352152.051,129956.405
+94,2022,4,Hombre,3. Población ocupada por:,3.4 Duración de la jornada de trabajo,No especificado,,15742.0,0,0,0,0
+95,2022,4,Mujer,3. Población ocupada por:,3.4 Duración de la jornada de trabajo,No especificado,,3244.0,0,0,0,0
+96,2022,4,Hombre,3. Población ocupada por:,3.5 Condición de acceso a las instituciones de salud 9,, ,1244099.0,1.728262,21501,1208729.376,770144.88
+97,2022,4,Mujer,3. Población ocupada por:,3.5 Condición de acceso a las instituciones de salud 9,, ,802670.0,2.463292,19772,1279468.624,835195.12
+98,2022,4,Hombre,3. Población ocupada por:,3.5 Condición de acceso a las instituciones de salud 9,Con acceso,,779700.0,2.456363,19152,748194.531,456702.402
+99,2022,4,Mujer,3. Población ocupada por:,3.5 Condición de acceso a las instituciones de salud 9,Con acceso,,482231.0,3.218147,15518,811205.469,507759.598
+100,2022,4,Hombre,3. Población ocupada por:,3.5 Condición de acceso a las instituciones de salud 9,Sin acceso,,457408.0,3.413733,15614,431721.837,294898.902
+101,2022,4,Mujer,3. Población ocupada por:,3.5 Condición de acceso a las instituciones de salud 9,Sin acceso,,317611.0,4.347062,13806,483094.163,340323.098
+102,2022,4,Hombre,3. Población ocupada por:,3.5 Condición de acceso a las instituciones de salud 9,No especificado,,6991.0,0,0,0,0
+103,2022,4,Mujer,3. Población ocupada por:,3.5 Condición de acceso a las instituciones de salud 9,No especificado,,2828.0,0,0,0,0
+104,2022,4,Hombre,3. Población ocupada por:,3.6 Ámbito y tamaño de la unidad económica 10,, ,1244099.0,1.728262,21501,1208729.376,770144.88
+105,2022,4,Mujer,3. Población ocupada por:,3.6 Ámbito y tamaño de la unidad económica 10,, ,802670.0,2.463292,19772,1279468.624,835195.12
+106,2022,4,Hombre,3. Población ocupada por:,3.6 Ámbito y tamaño de la unidad económica 10,Ámbito agropecuario,,2907.0,41.96434,1219,900.259,0
+107,2022,4,Mujer,3. Población ocupada por:,3.6 Ámbito y tamaño de la unidad económica 10,Ámbito agropecuario,,0.0,0,0,4913.741,0
+108,2022,4,Hombre,3. Población ocupada por:,3.6 Ámbito y tamaño de la unidad económica 10,Ámbito no agropecuario,,1120486.0,1.897865,21265,1085504.568,725414.55
+109,2022,4,Mujer,3. Población ocupada por:,3.6 Ámbito y tamaño de la unidad económica 10,Ámbito no agropecuario,,756875.0,2.526823,19124,1155467.432,788335.45
+110,2022,4,Hombre,3. Población ocupada por:,3.6 Ámbito y tamaño de la unidad económica 10,Ámbito no agropecuario,Micronegocios,387209.0,3.732448,14452,363434.845,212453.926
+111,2022,4,Mujer,3. Población ocupada por:,3.6 Ámbito y tamaño de la unidad económica 10,Ámbito no agropecuario,Micronegocios,232122.0,5.150859,11956,410983.155,251790.074
+112,2022,4,Hombre,3. Población ocupada por:,3.6 Ámbito y tamaño de la unidad económica 10,Ámbito no agropecuario,,227467.0,4.642071,10559,210097.148,110670.01
+113,2022,4,Mujer,3. Población ocupada por:,3.6 Ámbito y tamaño de la unidad económica 10,Ámbito no agropecuario,,124838.0,6.899149,8612,244836.852,139005.99
+114,2022,4,Hombre,3. Población ocupada por:,3.6 Ámbito y tamaño de la unidad económica 10,Ámbito no agropecuario,,159742.0,5.968394,9534,144058.517,94088.462
+115,2022,4,Mujer,3. Población ocupada por:,3.6 Ámbito y tamaño de la unidad económica 10,Ámbito no agropecuario,,107284.0,7.47698,8021,175425.483,120479.538
+116,2022,4,Hombre,3. Población ocupada por:,3.6 Ámbito y tamaño de la unidad económica 10,Ámbito no agropecuario,Pequeños establecimientos,258491.0,4.855407,12550,237844.95,180332.098
+117,2022,4,Mujer,3. Población ocupada por:,3.6 Ámbito y tamaño de la unidad económica 10,Ámbito no agropecuario,Pequeños establecimientos,198186.0,5.476389,10853,279137.05,216039.902
+118,2022,4,Hombre,3. Población ocupada por:,3.6 Ámbito y tamaño de la unidad económica 10,Ámbito no agropecuario,Medianos establecimientos,201576.0,5.430138,10945,183570.067,110246.691
+119,2022,4,Mujer,3. Población ocupada por:,3.6 Ámbito y tamaño de la unidad económica 10,Ámbito no agropecuario,Medianos establecimientos,123464.0,6.507839,8034,219581.933,136681.309
+120,2022,4,Hombre,3. Población ocupada por:,3.6 Ámbito y tamaño de la unidad económica 10,Ámbito no agropecuario,Grandes establecimientos,227126.0,5.26269,11952,207463.418,106883.321
+121,2022,4,Mujer,3. Población ocupada por:,3.6 Ámbito y tamaño de la unidad económica 10,Ámbito no agropecuario,Grandes establecimientos,120259.0,6.761334,8131,246788.582,133634.679
+122,2022,4,Hombre,3. Población ocupada por:,3.6 Ámbito y tamaño de la unidad económica 10,Ámbito no agropecuario,Gobierno,30802.0,12.756657,3929,24338.292,18168.189
+123,2022,4,Mujer,3. Población ocupada por:,3.6 Ámbito y tamaño de la unidad económica 10,Ámbito no agropecuario,Gobierno,23997.0,14.765805,3543,37265.708,29825.811
+124,2022,4,Hombre,3. Población ocupada por:,3.6 Ámbito y tamaño de la unidad económica 10,Ámbito no agropecuario,Otros,15282.0,20.8697,3189,10035.589,49434.994
+125,2022,4,Mujer,3. Población ocupada por:,3.6 Ámbito y tamaño de la unidad económica 10,Ámbito no agropecuario,Otros,58847.0,9.722814,5721,20528.411,68259.006
+126,2022,4,Hombre,3. Población ocupada por:,3.6 Ámbito y tamaño de la unidad económica 10,No especificado,,120706.0,0,0,0,0
+127,2022,4,Mujer,3. Población ocupada por:,3.6 Ámbito y tamaño de la unidad económica 10,No especificado,,45795.0,0,0,0,0
+128,2022,4,Hombre,3. Población ocupada por:,3.7 Distribución por tipo de unidad económica,, ,1244099.0,1.728262,21501,1208729.376,770144.88
+129,2022,4,Mujer,3. Población ocupada por:,3.7 Distribución por tipo de unidad económica,, ,802670.0,2.463292,19772,1279468.624,835195.12
+130,2022,4,Hombre,3. Población ocupada por:,3.7 Distribución por tipo de unidad económica,Empresas y negocios,,873633.0,2.292171,20025,840691.613,431502.954
+131,2022,4,Mujer,3. Población ocupada por:,3.7 Distribución por tipo de unidad económica,Empresas y negocios,,455852.0,3.247074,14801,906574.387,480201.046
+132,2022,4,Hombre,3. Población ocupada por:,3.7 Distribución por tipo de unidad económica,Empresas y negocios,Empresas constituidas en sociedad y corporaciones,676461.0,2.791678,18884,645395.811,342279.874
+133,2022,4,Mujer,3. Población ocupada por:,3.7 Distribución por tipo de unidad económica,Empresas y negocios,Empresas constituidas en sociedad y corporaciones,364034.0,3.632736,13224,707526.19,385788.126
+134,2022,4,Hombre,3. Población ocupada por:,3.7 Distribución por tipo de unidad económica,Empresas y negocios,Negocios no constituidos en sociedad,197172.0,5.400834,10648,179654.505,80139.282
+135,2022,4,Mujer,3. Población ocupada por:,3.7 Distribución por tipo de unidad económica,Empresas y negocios,Negocios no constituidos en sociedad,91818.0,7.732171,7099,214689.495,103496.718
+136,2022,4,Hombre,3. Población ocupada por:,3.7 Distribución por tipo de unidad económica,Instituciones,,100412.0,7.628989,7660,87810.609,118632.477
+137,2022,4,Mujer,3. Población ocupada por:,3.7 Distribución por tipo de unidad económica,Instituciones,,132186.0,6.233053,8239,113013.391,145739.523
+138,2022,4,Hombre,3. Población ocupada por:,3.7 Distribución por tipo de unidad económica,Instituciones,Privadas 11,21681.0,16.1123,3493,15934.509,25255.226
+139,2022,4,Mujer,3. Población ocupada por:,3.7 Distribución por tipo de unidad económica,Instituciones,Privadas 11,31691.0,12.345223,3912,27427.491,38126.774
+140,2022,4,Hombre,3. Población ocupada por:,3.7 Distribución por tipo de unidad económica,Instituciones,Públicas,78731.0,8.516156,6704,67701.514,88220.798
+141,2022,4,Mujer,3. Población ocupada por:,3.7 Distribución por tipo de unidad económica,Instituciones,Públicas,100495.0,7.424768,7461,89760.486,112769.202
+142,2022,4,Hombre,3. Población ocupada por:,3.7 Distribución por tipo de unidad económica,Instituciones,,73296.0,8.687194,6367,62821.683,78650.674
+143,2022,4,Mujer,3. Población ocupada por:,3.7 Distribución por tipo de unidad económica,Instituciones,,90350.0,7.871668,7112,83770.317,102049.326
+144,2022,4,Hombre,3. Población ocupada por:,3.7 Distribución por tipo de unidad económica,Instituciones,,5435.0,32.747565,1779,2507.179,6081.72
+145,2022,4,Mujer,3. Población ocupada por:,3.7 Distribución por tipo de unidad económica,Instituciones,,10145.0,24.347746,2470,8362.821,14208.28
+146,2022,4,Hombre,3. Población ocupada por:,3.7 Distribución por tipo de unidad económica,Sector de los hogares,,267702.0,4.39532,11766,248346.34,193667.325
+147,2022,4,Mujer,3. Población ocupada por:,3.7 Distribución por tipo de unidad económica,Sector de los hogares,,213282.0,5.590633,11923,287057.66,232896.675
+148,2022,4,Hombre,3. Población ocupada por:,3.7 Distribución por tipo de unidad económica,Sector de los hogares,Sector informal,254353.0,4.47631,11385,235623.642,139471.205
+149,2022,4,Mujer,3. Población ocupada por:,3.7 Distribución por tipo de unidad económica,Sector de los hogares,Sector informal,155785.0,6.365953,9917,273082.358,172098.795
+150,2022,4,Hombre,3. Población ocupada por:,3.7 Distribución por tipo de unidad económica,Sector de los hogares,Trabajo doméstico remunerado,13349.0,23.111375,3085,8273.949,48108.225
+151,2022,4,Mujer,3. Población ocupada por:,3.7 Distribución por tipo de unidad económica,Sector de los hogares,Trabajo doméstico remunerado,57497.0,9.926539,5707,18424.051,66885.775
+152,2022,4,Hombre,3. Población ocupada por:,3.7 Distribución por tipo de unidad económica,Sector de los hogares,Agricultura de subsistencia,0.0,0,0,0,0
+153,2022,4,Mujer,3. Población ocupada por:,3.7 Distribución por tipo de unidad económica,Sector de los hogares,Agricultura de subsistencia,0.0,0,0,0,0
+154,2022,4,Hombre,3. Población ocupada por:,3.7 Distribución por tipo de unidad económica,Situaciones de carácter especial y no especificadas 13,,2352.0,40.675285,956,778.257,48.375
+155,2022,4,Mujer,3. Población ocupada por:,3.7 Distribución por tipo de unidad económica,Situaciones de carácter especial y no especificadas 13,,1350.0,58.611944,791,3925.743,2651.625
+156,2022,4,Hombre,3. Población ocupada por:,3.8 Condición de informalidad,, ,1244099.0,1.728262,21501,1208729.376,770144.88
+157,2022,4,Mujer,3. Población ocupada por:,3.8 Condición de informalidad,, ,802670.0,2.463292,19772,1279468.624,835195.12
+158,2022,4,Hombre,3. Población ocupada por:,3.8 Condición de informalidad,Ocupación formal,,850821.0,2.245134,19102,819398.098,479384.728
+159,2022,4,Mujer,3. Población ocupada por:,3.8 Condición de informalidad,Ocupación formal,,505245.0,3.111467,15720,882243.902,531105.272
+160,2022,4,Hombre,3. Población ocupada por:,3.8 Condición de informalidad,Ocupación informal,,393278.0,3.628707,14270,369802.358,275584.944
+161,2022,4,Mujer,3. Población ocupada por:,3.8 Condición de informalidad,Ocupación informal,,297425.0,4.463858,13276,416753.642,319265.056
+162,2022,4,Hombre,3. Población ocupada por:,3.8 Condición de informalidad,Ocupación informal,Sector informal,254353.0,4.47631,11385,235623.642,139471.205
+163,2022,4,Mujer,3. Población ocupada por:,3.8 Condición de informalidad,Ocupación informal,Sector informal,155785.0,6.365953,9917,273082.358,172098.795
+164,2022,4,Hombre,3. Población ocupada por:,3.8 Condición de informalidad,Ocupación informal,Fuera de sector informal,138925.0,6.27909,8723,124575.293,127836.791
+165,2022,4,Mujer,3. Población ocupada por:,3.8 Condición de informalidad,Ocupación informal,Fuera de sector informal,141640.0,5.92418,8391,153274.707,155443.209
+166,2022,4,Hombre,4. Trabajadores subordinados y remunerados por:,Ocupación informal,, ,987701.0,2.148028,21216,952800.533,612257.785
+167,2022,4,Mujer,4. Trabajadores subordinados y remunerados por:,Ocupación informal,, ,641204.0,2.744288,17596,1022601.467,670150.215
+168,2022,4,Hombre,4. Trabajadores subordinados y remunerados por:,4.1 Sector de actividad económica,, ,987701.0,2.148028,21216,952800.533,612257.785
+169,2022,4,Mujer,4. Trabajadores subordinados y remunerados por:,4.1 Sector de actividad económica,, ,641204.0,2.744288,17596,1022601.467,670150.215
+170,2022,4,Hombre,4. Trabajadores subordinados y remunerados por:,Primario,, ,1162.0,72.354388,840,-,0
+171,2022,4,Mujer,4. Trabajadores subordinados y remunerados por:,Primario,, ,0.0,0,0,-,0
+172,2022,4,Hombre,4. Trabajadores subordinados y remunerados por:,Primario,"Agricultura, ganadería, silvicultura, caza y pesca", ,1162.0,72.354388,840,-,0
+173,2022,4,Mujer,4. Trabajadores subordinados y remunerados por:,Primario,"Agricultura, ganadería, silvicultura, caza y pesca", ,0.0,0,0,-,0
+174,2022,4,Hombre,4. Trabajadores subordinados y remunerados por:,Secundario,, ,409840.0,3.943525,16162,383253.275,123963.103
+175,2022,4,Mujer,4. Trabajadores subordinados y remunerados por:,Secundario,, ,137607.0,6.027428,8294,436426.725,151250.897
+176,2022,4,Hombre,4. Trabajadores subordinados y remunerados por:,Secundario,Industria extractiva y de la electricidad, ,5015.0,31.506018,1580,2415.856,66.413
+177,2022,4,Mujer,4. Trabajadores subordinados y remunerados por:,Secundario,Industria extractiva y de la electricidad, ,1350.0,57.799718,780,7614.144,2633.587
+178,2022,4,Hombre,4. Trabajadores subordinados y remunerados por:,Secundario,Industria manufacturera, ,318146.0,4.637605,14754,293875.087,115957.257
+179,2022,4,Mujer,4. Trabajadores subordinados y remunerados por:,Secundario,Industria manufacturera, ,129320.0,6.281509,8123,342416.913,142682.743
+180,2022,4,Hombre,4. Trabajadores subordinados y remunerados por:,Secundario,Construcción, ,86679.0,9.002763,7803,73842.235,3779.831
+181,2022,4,Mujer,4. Trabajadores subordinados y remunerados por:,Secundario,Construcción, ,6937.0,27.666879,1919,99515.765,10094.169
+182,2022,4,Hombre,4. Trabajadores subordinados y remunerados por:,Terciario,, ,571670.0,2.926828,16731,544146.196,474560.6
+183,2022,4,Mujer,4. Trabajadores subordinados y remunerados por:,Terciario,, ,501780.0,3.29761,16546,599193.804,528999.4
+184,2022,4,Hombre,4. Trabajadores subordinados y remunerados por:,Terciario,Comercio, ,156479.0,5.786977,9055,141582.861,95169.219
+185,2022,4,Mujer,4. Trabajadores subordinados y remunerados por:,Terciario,Comercio, ,107397.0,6.921331,7433,171375.139,119624.781
+186,2022,4,Hombre,4. Trabajadores subordinados y remunerados por:,Terciario,Restaurantes y servicios de alojamiento, ,58137.0,10.373605,6030,48216.165,37435.921
+187,2022,4,Mujer,4. Trabajadores subordinados y remunerados por:,Terciario,Restaurantes y servicios de alojamiento, ,45504.0,10.77841,4904,68057.835,53572.079
+188,2022,4,Hombre,4. Trabajadores subordinados y remunerados por:,Terciario,"Transportes, comunicaciones, correo y almacenamiento", ,82837.0,8.218014,6807,71638.569,20544.427
+189,2022,4,Mujer,4. Trabajadores subordinados y remunerados por:,Terciario,"Transportes, comunicaciones, correo y almacenamiento", ,26691.0,13.999171,3736,94035.431,32837.573
+190,2022,4,Hombre,4. Trabajadores subordinados y remunerados por:,Terciario,"Servicios profesionales, financieros y corporativos", ,121940.0,7.838132,9557,106217.388,88392.351
+191,2022,4,Mujer,4. Trabajadores subordinados y remunerados por:,Terciario,"Servicios profesionales, financieros y corporativos", ,101205.0,7.696106,7788,137662.612,114017.649
+192,2022,4,Hombre,4. Trabajadores subordinados y remunerados por:,Terciario,Servicios sociales, ,55120.0,10.24774,5648,45828.128,105095.216
+193,2022,4,Mujer,4. Trabajadores subordinados y remunerados por:,Terciario,Servicios sociales, ,117755.0,6.535533,7695,64411.872,130414.784
+194,2022,4,Hombre,4. Trabajadores subordinados y remunerados por:,Terciario,Servicios diversos, ,66355.0,9.241159,6131,56267.908,68022.385
+195,2022,4,Mujer,4. Trabajadores subordinados y remunerados por:,Terciario,Servicios diversos, ,79231.0,8.59985,6813,76442.092,90439.615
+196,2022,4,Hombre,4. Trabajadores subordinados y remunerados por:,Terciario,Gobierno y organismos internacionales, ,30802.0,12.756657,3929,24338.292,18168.189
+197,2022,4,Mujer,4. Trabajadores subordinados y remunerados por:,Terciario,Gobierno y organismos internacionales, ,23997.0,14.765805,3543,37265.708,29825.811
+198,2022,4,Hombre,4. Trabajadores subordinados y remunerados por:,No especificado,, ,5029.0,0,0,0,0
+199,2022,4,Mujer,4. Trabajadores subordinados y remunerados por:,No especificado,, ,1817.0,0,0,0,0
+200,2022,4,Hombre,4. Trabajadores subordinados y remunerados por:,4.2 Nivel de ingresos,, ,987701.0,2.148028,21216,952800.533,612257.785
+201,2022,4,Mujer,4. Trabajadores subordinados y remunerados por:,4.2 Nivel de ingresos,, ,641204.0,2.744288,17596,1022601.467,670150.215
+202,2022,4,Hombre,4. Trabajadores subordinados y remunerados por:,4.2 Nivel de ingresos,Hasta un salario mínimo, ,79602.0,8.508515,6772,68460.501,88654.646
+203,2022,4,Mujer,4. Trabajadores subordinados y remunerados por:,4.2 Nivel de ingresos,Hasta un salario mínimo, ,101428.0,7.655634,7764,90743.499,114201.354
+204,2022,4,Hombre,4. Trabajadores subordinados y remunerados por:,4.2 Nivel de ingresos,Más de 1 hasta 2 salarios mínimos, ,367646.0,4.001847,14712,343443.724,261192.934
+205,2022,4,Mujer,4. Trabajadores subordinados y remunerados por:,4.2 Nivel de ingresos,Más de 1 hasta 2 salarios mínimos, ,282063.0,4.497921,12686,391848.276,302933.066
+206,2022,4,Hombre,4. Trabajadores subordinados y remunerados por:,4.2 Nivel de ingresos,Más de 2 hasta 3 salarios mínimos, ,235332.0,4.922055,11583,216277.683,70881.092
+207,2022,4,Mujer,4. Trabajadores subordinados y remunerados por:,4.2 Nivel de ingresos,Más de 2 hasta 3 salarios mínimos, ,81567.0,7.963996,6495,254386.317,92252.908
+208,2022,4,Hombre,4. Trabajadores subordinados y remunerados por:,4.2 Nivel de ingresos,Más de 3 hasta 5 salarios mínimos, ,100644.0,7.811987,7862,87710.523,37777.06
+209,2022,4,Mujer,4. Trabajadores subordinados y remunerados por:,4.2 Nivel de ingresos,Más de 3 hasta 5 salarios mínimos, ,46855.0,11.777835,5518,113577.477,55932.94
+210,2022,4,Hombre,4. Trabajadores subordinados y remunerados por:,4.2 Nivel de ingresos,Más de 5 salarios mínimos, ,47405.0,12.153778,5761,37927.335,14117.516
+211,2022,4,Mujer,4. Trabajadores subordinados y remunerados por:,4.2 Nivel de ingresos,Más de 5 salarios mínimos, ,20893.0,19.713948,4118,56882.665,27668.484
+212,2022,4,Hombre,4. Trabajadores subordinados y remunerados por:,4.2 Nivel de ingresos,No especificado, ,157072.0,0,0,0,0
+213,2022,4,Mujer,4. Trabajadores subordinados y remunerados por:,4.2 Nivel de ingresos,No especificado, ,108398.0,0,0,0,0
+214,2022,4,Hombre,4. Trabajadores subordinados y remunerados por:,4.3 Duración de la jornada de trabajo,, ,987701.0,2.148028,21216,952800.533,612257.785
+215,2022,4,Mujer,4. Trabajadores subordinados y remunerados por:,4.3 Duración de la jornada de trabajo,, ,641204.0,2.744288,17596,1022601.467,670150.215
+216,2022,4,Hombre,4. Trabajadores subordinados y remunerados por:,4.3 Duración de la jornada de trabajo,Ausentes temporales con vínculo laboral, ,15094.0,18.935252,2858,10392.447,9286.151
+217,2022,4,Mujer,4. Trabajadores subordinados y remunerados por:,4.3 Duración de la jornada de trabajo,Ausentes temporales con vínculo laboral, ,13822.0,19.94903,2757,19795.553,18357.849
+218,2022,4,Hombre,4. Trabajadores subordinados y remunerados por:,4.3 Duración de la jornada de trabajo,Menos de 15 horas, ,11661.0,23.557533,2747,7142.113,18390.689
+219,2022,4,Mujer,4. Trabajadores subordinados y remunerados por:,4.3 Duración de la jornada de trabajo,Menos de 15 horas, ,24763.0,15.643278,3873,16179.887,31135.311
+220,2022,4,Hombre,4. Trabajadores subordinados y remunerados por:,4.3 Duración de la jornada de trabajo,De 15 a 34 horas, ,65940.0,9.591117,6324,55536.391,85100.274
+221,2022,4,Mujer,4. Trabajadores subordinados y remunerados por:,4.3 Duración de la jornada de trabajo,De 15 a 34 horas, ,96633.0,7.255054,7010,76343.609,108165.726
+222,2022,4,Hombre,4. Trabajadores subordinados y remunerados por:,4.3 Duración de la jornada de trabajo,De 35 a 48 horas, ,632593.0,2.870351,18157,602723.679,388504.246
+223,2022,4,Mujer,4. Trabajadores subordinados y remunerados por:,4.3 Duración de la jornada de trabajo,De 35 a 48 horas, ,412334.0,3.513213,14486,662462.321,436163.754
+224,2022,4,Hombre,4. Trabajadores subordinados y remunerados por:,4.3 Duración de la jornada de trabajo,Más de 48 horas, ,250249.0,5.229772,13087,228720.14,80178.394
+225,2022,4,Mujer,4. Trabajadores subordinados y remunerados por:,4.3 Duración de la jornada de trabajo,Más de 48 horas, ,92194.0,7.922772,7304,271777.86,104209.606
+226,2022,4,Hombre,4. Trabajadores subordinados y remunerados por:,4.3 Duración de la jornada de trabajo,No especificado, ,12164.0,0,0,0,0
+227,2022,4,Mujer,4. Trabajadores subordinados y remunerados por:,4.3 Duración de la jornada de trabajo,No especificado, ,1458.0,0,0,0,0
+228,2022,4,Hombre,4. Trabajadores subordinados y remunerados por:,4.4 Condición de acceso a las instituciones de salud,, ,987701.0,2.148028,21216,952800.533,612257.785
+229,2022,4,Mujer,4. Trabajadores subordinados y remunerados por:,4.4 Condición de acceso a las instituciones de salud,, ,641204.0,2.744288,17596,1022601.467,670150.215
+230,2022,4,Hombre,4. Trabajadores subordinados y remunerados por:,4.4 Condición de acceso a las instituciones de salud,Con acceso, ,778015.0,2.45266,19082,746625.012,455634.832
+231,2022,4,Mujer,4. Trabajadores subordinados y remunerados por:,4.4 Condición de acceso a las instituciones de salud,Con acceso, ,481216.0,3.231576,15550,809404.989,506797.168
+232,2022,4,Hombre,4. Trabajadores subordinados y remunerados por:,4.4 Condición de acceso a las instituciones de salud,Sin acceso, ,203617.0,5.50759,11214,185169.33,143341.121
+233,2022,4,Mujer,4. Trabajadores subordinados y remunerados por:,4.4 Condición de acceso a las instituciones de salud,Sin acceso, ,157910.0,5.60855,8856,222064.67,172478.879
+234,2022,4,Hombre,4. Trabajadores subordinados y remunerados por:,4.4 Condición de acceso a las instituciones de salud,No especificado, ,6069.0,0,0,0,0
+235,2022,4,Mujer,4. Trabajadores subordinados y remunerados por:,4.4 Condición de acceso a las instituciones de salud,No especificado, ,2078.0,0,0,0,0
+236,2022,4,Hombre,4. Trabajadores subordinados y remunerados por:,4.5 Prestaciones laborales (sin considerar el acceso a las instituciones de salud),, ,987701.0,2.148028,21216,952800.533,612257.785
+237,2022,4,Mujer,4. Trabajadores subordinados y remunerados por:,4.5 Prestaciones laborales (sin considerar el acceso a las instituciones de salud),, ,641204.0,2.744288,17596,1022601.467,670150.215
+238,2022,4,Hombre,4. Trabajadores subordinados y remunerados por:,4.5 Prestaciones laborales (sin considerar el acceso a las instituciones de salud),Con prestaciones, ,836671.0,2.392708,20019,803739.592,520507.157
+239,2022,4,Mujer,4. Trabajadores subordinados y remunerados por:,4.5 Prestaciones laborales (sin considerar el acceso a las instituciones de salud),Con prestaciones, ,547627.0,3.010485,16486,869602.408,574746.843
+240,2022,4,Hombre,4. Trabajadores subordinados y remunerados por:,4.5 Prestaciones laborales (sin considerar el acceso a las instituciones de salud),Sin prestaciones, ,141074.0,6.694877,9444,125537.417,76985.003
+241,2022,4,Mujer,4. Trabajadores subordinados y remunerados por:,4.5 Prestaciones laborales (sin considerar el acceso a las instituciones de salud),Sin prestaciones, ,88197.0,7.727931,6815,156610.583,99408.997
+242,2022,4,Hombre,4. Trabajadores subordinados y remunerados por:,4.5 Prestaciones laborales (sin considerar el acceso a las instituciones de salud),No especificado, ,9956.0,0,0,0,0
+243,2022,4,Mujer,4. Trabajadores subordinados y remunerados por:,4.5 Prestaciones laborales (sin considerar el acceso a las instituciones de salud),No especificado, ,5380.0,0,0,0,0
+244,2022,4,Hombre,4. Trabajadores subordinados y remunerados por:,4.6 Disponibilidad de contrato escrito,, ,987701.0,2.148028,21216,952800.533,612257.785
+245,2022,4,Mujer,4. Trabajadores subordinados y remunerados por:,4.6 Disponibilidad de contrato escrito,, ,641204.0,2.744288,17596,1022601.467,670150.215
+246,2022,4,Hombre,4. Trabajadores subordinados y remunerados por:,4.6 Disponibilidad de contrato escrito,Con contrato escrito, ,775765.0,2.516461,19521,743651.598,467081.174
+247,2022,4,Mujer,4. Trabajadores subordinados y remunerados por:,4.6 Disponibilidad de contrato escrito,Con contrato escrito, ,492297.0,3.113724,15328,807878.402,517512.826
+248,2022,4,Hombre,4. Trabajadores subordinados y remunerados por:,4.6 Disponibilidad de contrato escrito,, ,69020.0,8.478211,5851,59394.017,43647.876
+249,2022,4,Mujer,4. Trabajadores subordinados y remunerados por:,4.6 Disponibilidad de contrato escrito,, ,52632.0,10.376717,5461,78645.983,61616.124
+250,2022,4,Hombre,4. Trabajadores subordinados y remunerados por:,4.6 Disponibilidad de contrato escrito,, ,703061.0,2.649114,18624,672423.056,413386.975
+251,2022,4,Mujer,4. Trabajadores subordinados y remunerados por:,4.6 Disponibilidad de contrato escrito,, ,437804.0,3.39037,14843,733698.944,462221.025
+252,2022,4,Hombre,4. Trabajadores subordinados y remunerados por:,4.6 Disponibilidad de contrato escrito,, ,3684.0,41.794858,1539,1151.156,305.329
+253,2022,4,Mujer,4. Trabajadores subordinados y remunerados por:,4.6 Disponibilidad de contrato escrito,, ,1861.0,50.816574,945,6216.844,3416.671
+254,2022,4,Hombre,4. Trabajadores subordinados y remunerados por:,4.6 Disponibilidad de contrato escrito,Sin contrato escrito, ,195957.0,5.633128,11038,177798.654,126389.539
+255,2022,4,Mujer,4. Trabajadores subordinados y remunerados por:,4.6 Disponibilidad de contrato escrito,Sin contrato escrito, ,141232.0,6.388618,9022,214115.346,156074.461
+256,2022,4,Hombre,4. Trabajadores subordinados y remunerados por:,4.6 Disponibilidad de contrato escrito,No especificado, ,15979.0,0,0,0,0
+257,2022,4,Mujer,4. Trabajadores subordinados y remunerados por:,4.6 Disponibilidad de contrato escrito,No especificado, ,7675.0,0,0,0,0
+258,2022,4,Hombre,5. Trabajadores subordinados y remunerados no agropecuarios por:,4.6 Disponibilidad de contrato escrito,, ,986539.0,2.146338,21174,951707.017,612257.785
+259,2022,4,Mujer,5. Trabajadores subordinados y remunerados no agropecuarios por:,4.6 Disponibilidad de contrato escrito,, ,641204.0,2.744288,17596,1021370.983,670150.215
+260,2022,4,Hombre,5. Trabajadores subordinados y remunerados no agropecuarios por:,5.1 Tamaño de la unidad económica 10,, ,986539.0,2.146338,21174,951707.017,612257.785
+261,2022,4,Mujer,5. Trabajadores subordinados y remunerados no agropecuarios por:,5.1 Tamaño de la unidad económica 10,, ,641204.0,2.744288,17596,1021370.983,670150.215
+262,2022,4,Hombre,5. Trabajadores subordinados y remunerados no agropecuarios por:,Micronegocios,, ,145299.0,6.6013,9591,129520.78,66917.291
+263,2022,4,Mujer,5. Trabajadores subordinados y remunerados no agropecuarios por:,Micronegocios,, ,77651.0,8.403048,6525,161077.22,88384.709
+264,2022,4,Hombre,5. Trabajadores subordinados y remunerados no agropecuarios por:,Micronegocios,Sin establecimiento, ,53640.0,10.2354,5490,44608.508,7281.756
+265,2022,4,Mujer,5. Trabajadores subordinados y remunerados no agropecuarios por:,Micronegocios,Sin establecimiento, ,11052.0,20.7378,2291,62671.492,14822.244
+266,2022,4,Hombre,5. Trabajadores subordinados y remunerados no agropecuarios por:,Micronegocios,Con establecimiento, ,91659.0,7.843643,7189,79832.429,56546.575
+267,2022,4,Mujer,5. Trabajadores subordinados y remunerados no agropecuarios por:,Micronegocios,Con establecimiento, ,66599.0,9.175658,6110,103485.571,76651.425
+268,2022,4,Hombre,5. Trabajadores subordinados y remunerados no agropecuarios por:,Pequeños establecimientos,, ,248954.0,4.948812,12320,228687.164,175334.108
+269,2022,4,Mujer,5. Trabajadores subordinados y remunerados no agropecuarios por:,Pequeños establecimientos,, ,193046.0,5.577483,10767,269220.836,210757.892
+270,2022,4,Hombre,5. Trabajadores subordinados y remunerados no agropecuarios por:,Medianos establecimientos,, ,200868.0,5.426759,10900,182936.475,109873.015
+271,2022,4,Mujer,5. Trabajadores subordinados y remunerados no agropecuarios por:,Medianos establecimientos,, ,123057.0,6.512901,8014,218799.525,136240.985
+272,2022,4,Hombre,5. Trabajadores subordinados y remunerados no agropecuarios por:,Grandes establecimientos,, ,227126.0,5.26269,11952,207463.418,106421.206
+273,2022,4,Mujer,5. Trabajadores subordinados y remunerados no agropecuarios por:,Grandes establecimientos,, ,119742.0,6.762662,8097,246788.582,133062.794
+274,2022,4,Hombre,5. Trabajadores subordinados y remunerados no agropecuarios por:,Gobierno,, ,30802.0,12.756657,3929,24338.292,18168.189
+275,2022,4,Mujer,5. Trabajadores subordinados y remunerados no agropecuarios por:,Gobierno,, ,23997.0,14.765805,3543,37265.708,29825.811
+276,2022,4,Hombre,5. Trabajadores subordinados y remunerados no agropecuarios por:,Otros,, ,14862.0,21.292157,3164,9656.496,48864.824
+277,2022,4,Mujer,5. Trabajadores subordinados y remunerados no agropecuarios por:,Otros,, ,58282.0,9.822461,5724,20067.504,67699.176
+278,2022,4,Hombre,5. Trabajadores subordinados y remunerados no agropecuarios por:,No especificado,, ,118628.0,0,0,0,0
+279,2022,4,Mujer,5. Trabajadores subordinados y remunerados no agropecuarios por:,No especificado,, ,45429.0,0,0,0,0
+280,2022,4,Hombre,6. Población subocupada por:,No especificado,, ,50303.0,11.430049,5749,40844.813,29338.64
+281,2022,4,Mujer,6. Población subocupada por:,No especificado,, ,38607.0,14.593885,5634,59761.187,47875.36
+282,2022,4,Hombre,6. Población subocupada por:,6.1 Condición de búsqueda de trabajo adicional,, ,50303.0,11.430049,5749,40844.813,29338.64
+283,2022,4,Mujer,6. Población subocupada por:,6.1 Condición de búsqueda de trabajo adicional,, ,38607.0,14.593885,5634,59761.187,47875.36
+284,2022,4,Hombre,6. Población subocupada por:,Con búsqueda de trabajo adicional,, ,4393.0,35.245433,1548,1845.994,1704.191
+285,2022,4,Mujer,6. Población subocupada por:,Con búsqueda de trabajo adicional,, ,3793.0,33.477273,1269,6940.006,5881.809
+286,2022,4,Hombre,6. Población subocupada por:,Sin búsqueda de trabajo adicional,, ,45910.0,11.832776,5432,36973.657,25879.012
+287,2022,4,Mujer,6. Población subocupada por:,Sin búsqueda de trabajo adicional,, ,34814.0,15.601781,5431,54846.343,43748.988
+288,2022,4,Hombre,6. Población subocupada por:,6.2 Nivel de instrucción,, ,50303.0,11.430049,5749,40844.813,29338.64
+289,2022,4,Mujer,6. Población subocupada por:,6.2 Nivel de instrucción,, ,38607.0,14.593885,5634,59761.187,47875.36
+290,2022,4,Hombre,6. Población subocupada por:,Primaria incompleta,, ,3052.0,39.810027,1215,1053.322,833.827
+291,2022,4,Mujer,6. Población subocupada por:,Primaria incompleta,, ,2664.0,41.763021,1112,5050.678,4494.173
+292,2022,4,Hombre,6. Población subocupada por:,Primaria completa,, ,6468.0,29.750857,1924,3302.55,949.493
+293,2022,4,Mujer,6. Población subocupada por:,Primaria completa,, ,4605.0,48.256087,2222,9633.45,8260.507
+294,2022,4,Hombre,6. Población subocupada por:,Secundaria completa,, ,26447.0,15.158116,4008,19852.414,9495.981
+295,2022,4,Mujer,6. Población subocupada por:,Secundaria completa,, ,15363.0,23.215366,3566,33041.586,21230.019
+296,2022,4,Hombre,6. Población subocupada por:,Medio superior y superior,, ,14336.0,21.451166,3075,9277.232,10539.632
+297,2022,4,Mujer,6. Población subocupada por:,Medio superior y superior,, ,15975.0,20.683412,3304,19394.768,21410.368
+298,2022,4,Hombre,6. Población subocupada por:,No especificado,, ,0.0,0,0,0,0
+299,2022,4,Mujer,6. Población subocupada por:,No especificado,, ,0.0,0,0,0,0
+300,2022,4,Hombre,6. Población subocupada por:,6.3 Posición en la ocupación,, ,50303.0,11.430049,5749,40844.813,29338.64
+301,2022,4,Mujer,6. Población subocupada por:,6.3 Posición en la ocupación,, ,38607.0,14.593885,5634,59761.187,47875.36
+302,2022,4,Hombre,6. Población subocupada por:,Trabajadores subordinados y remunerados,, ,26607.0,15.370024,4089,19879.769,15226.59
+303,2022,4,Mujer,6. Población subocupada por:,Trabajadores subordinados y remunerados,, ,21812.0,18.353606,4003,33334.231,28397.41
+304,2022,4,Hombre,6. Población subocupada por:,Trabajadores subordinados y remunerados,Asalariados, ,24544.0,15.148168,3717,18427.945,13848.978
+305,2022,4,Mujer,6. Población subocupada por:,Trabajadores subordinados y remunerados,Asalariados, ,20284.0,19.285485,3911,30660.055,26719.022
+306,2022,4,Hombre,6. Población subocupada por:,Trabajadores subordinados y remunerados,Con percepciones no salariales, ,2063.0,55.292492,1140,186.575,272.385
+307,2022,4,Mujer,6. Población subocupada por:,Trabajadores subordinados y remunerados,Con percepciones no salariales, ,1528.0,49.953639,763,3939.425,2783.615
+308,2022,4,Hombre,6. Población subocupada por:,Empleadores,, ,2346.0,44.938484,1054,611.747,52.792
+309,2022,4,Mujer,6. Población subocupada por:,Empleadores,, ,1231.0,58.183237,716,4080.253,2409.208
+310,2022,4,Hombre,6. Población subocupada por:,Trabajadores por cuenta propia,, ,20208.0,15.869722,3206,14932.562,8238.866
+311,2022,4,Mujer,6. Población subocupada por:,Trabajadores por cuenta propia,, ,14269.0,25.690201,3665,25483.438,20299.134
+312,2022,4,Hombre,6. Población subocupada por:,Trabajadores no remunerados,, ,1142.0,70.77842,808,-,56.678
+313,2022,4,Mujer,6. Población subocupada por:,Trabajadores no remunerados,, ,1295.0,58.129692,752,-,2533.322
+314,2022,4,Hombre,6. Población subocupada por:,No especificado,, ,0.0,0,0,0,0
+315,2022,4,Mujer,6. Población subocupada por:,No especificado,, ,0.0,0,0,0,0
+316,2022,4,Hombre,6. Población subocupada por:,6.4 Sector de actividad económica,, ,50303.0,11.430049,5749,40844.813,29338.64
+317,2022,4,Mujer,6. Población subocupada por:,6.4 Sector de actividad económica,, ,38607.0,14.593885,5634,59761.187,47875.36
+318,2022,4,Hombre,6. Población subocupada por:,Primario,, ,414.0,100,414,-,0
+319,2022,4,Mujer,6. Población subocupada por:,Primario,, ,0.0,0,0,-,0
+320,2022,4,Hombre,6. Población subocupada por:,Primario,"Agricultura, ganadería, silvicultura, caza y pesca", ,414.0,100,414,-,0
+321,2022,4,Mujer,6. Población subocupada por:,Primario,"Agricultura, ganadería, silvicultura, caza y pesca", ,0.0,0,0,-,0
+322,2022,4,Hombre,6. Población subocupada por:,Secundario,, ,18212.0,17.478505,3183,12975.66,2615.084
+323,2022,4,Mujer,6. Población subocupada por:,Secundario,, ,6037.0,34.457381,2080,23448.34,9458.916
+324,2022,4,Hombre,6. Población subocupada por:,Secundario,Industria extractiva y de la electricidad, ,0.0,0,0,0,0
+325,2022,4,Mujer,6. Población subocupada por:,Secundario,Industria extractiva y de la electricidad, ,0.0,0,0,0,0
+326,2022,4,Hombre,6. Población subocupada por:,Secundario,Industria manufacturera, ,9391.0,23.062084,2165,5828.324,1693.889
+327,2022,4,Mujer,6. Población subocupada por:,Secundario,Industria manufacturera, ,4675.0,38.764185,1812,12953.676,7656.111
+328,2022,4,Hombre,6. Población subocupada por:,Secundario,Construcción, ,8821.0,24.887305,2195,5209.716,-
+329,2022,4,Mujer,6. Población subocupada por:,Secundario,Construcción, ,1362.0,75.469025,1027,12432.284,-
+330,2022,4,Hombre,6. Población subocupada por:,Terciario,, ,31677.0,13.909709,4406,24428.836,23838
+331,2022,4,Mujer,6. Población subocupada por:,Terciario,, ,31785.0,15.199003,4831,38925.164,39732
+332,2022,4,Hombre,6. Población subocupada por:,Terciario,Comercio, ,10195.0,24.562245,2504,6075.721,6469.079
+333,2022,4,Mujer,6. Población subocupada por:,Terciario,Comercio, ,11699.0,27.175684,3179,14314.279,16928.921
+334,2022,4,Hombre,6. Población subocupada por:,Terciario,Restaurantes y servicios de alojamiento, ,1224.0,57.846368,708,59.275,1818.175
+335,2022,4,Mujer,6. Población subocupada por:,Terciario,Restaurantes y servicios de alojamiento, ,4437.0,35.87989,1591,2388.725,7055.825
+336,2022,4,Hombre,6. Población subocupada por:,Terciario,"Transportes, comunicaciones, correo y almacenamiento", ,4065.0,38.357515,1559,1500.062,-
+337,2022,4,Mujer,6. Población subocupada por:,Terciario,"Transportes, comunicaciones, correo y almacenamiento", ,1020.0,70.782548,721,6629.938,-
+338,2022,4,Hombre,6. Población subocupada por:,Terciario,"Servicios profesionales, financieros y corporativos", ,4053.0,37.279087,1510,1567.534,1172.885
+339,2022,4,Mujer,6. Población subocupada por:,Terciario,"Servicios profesionales, financieros y corporativos", ,3211.0,38.585356,1238,6538.466,5249.115
+340,2022,4,Hombre,6. Población subocupada por:,Terciario,Servicios sociales, ,794.0,100,794,-,1889.741
+341,2022,4,Mujer,6. Población subocupada por:,Terciario,Servicios sociales, ,4570.0,35.652888,1629,-,7250.259
+342,2022,4,Hombre,6. Población subocupada por:,Terciario,Servicios diversos, ,11346.0,21.792939,2472,7278.529,3760.724
+343,2022,4,Mujer,6. Población subocupada por:,Terciario,Servicios diversos, ,6848.0,27.406008,1876,15413.471,9935.276
+344,2022,4,Hombre,6. Población subocupada por:,Terciario,Gobierno, ,0.0,0,0,0,0
+345,2022,4,Mujer,6. Población subocupada por:,Terciario,Gobierno, ,0.0,0,0,0,0
+346,2022,4,Hombre,6. Población subocupada por:,No especificado,, ,0.0,0,0,0,0
+347,2022,4,Mujer,6. Población subocupada por:,No especificado,, ,785.0,0,0,0,0
+348,2022,4,Hombre,7. Población desocupada por:,No especificado,, ,42582.0,11.309893,4815,34659.715,24412.634
+349,2022,4,Mujer,7. Población desocupada por:,No especificado,, ,31842.0,14.183569,4516,50504.285,39271.366
+350,2022,4,Hombre,7. Población desocupada por:,7.1 Grupos de edad,, ,42582.0,11.309893,4815,34659.715,24412.634
+351,2022,4,Mujer,7. Población desocupada por:,7.1 Grupos de edad,, ,31842.0,14.183569,4516,50504.285,39271.366
+352,2022,4,Hombre,7. Población desocupada por:,7.1 Grupos de edad,De 15 a 24 años,,19007.0,16.743697,3182,13771.829,9413.772
+353,2022,4,Mujer,7. Población desocupada por:,7.1 Grupos de edad,De 15 a 24 años,,14118.0,20.255796,2859,24242.171,18822.228
+354,2022,4,Hombre,7. Población desocupada por:,7.1 Grupos de edad,De 25 a 44 años,,13419.0,19.485792,2614,9117.657,6133.705
+355,2022,4,Mujer,7. Población desocupada por:,7.1 Grupos de edad,De 25 a 44 años,,10168.0,24.119386,2452,17720.343,14202.295
+356,2022,4,Hombre,7. Población desocupada por:,7.1 Grupos de edad,De 45 a 64 años,,10156.0,21.505455,2184,6563.165,4358.578
+357,2022,4,Mujer,7. Población desocupada por:,7.1 Grupos de edad,De 45 a 64 años,,7556.0,25.724213,1943,13748.835,10753.422
+358,2022,4,Hombre,7. Población desocupada por:,7.1 Grupos de edad,De 65 años y más,,0.0,0,0,0,0
+359,2022,4,Mujer,7. Población desocupada por:,7.1 Grupos de edad,De 65 años y más,,0.0,0,0,0,0
+360,2022,4,Hombre,7. Población desocupada por:,7.1 Grupos de edad,No especificado,,0.0,0,0,0,0
+361,2022,4,Mujer,7. Población desocupada por:,7.1 Grupos de edad,No especificado,,0.0,0,0,0,0
+362,2022,4,Hombre,7. Población desocupada por:,7.2 Nivel de instrucción,, ,42582.0,11.309893,4815,34659.715,24412.634
+363,2022,4,Mujer,7. Población desocupada por:,7.2 Nivel de instrucción,, ,31842.0,14.183569,4516,50504.285,39271.366
+364,2022,4,Hombre,7. Población desocupada por:,7.2 Nivel de instrucción,Primaria incompleta,,399.0,100,399,-,-
+365,2022,4,Mujer,7. Población desocupada por:,7.2 Nivel de instrucción,Primaria incompleta,,540.0,100,540,-,-
+366,2022,4,Hombre,7. Población desocupada por:,7.2 Nivel de instrucción,Primaria completa,,2924.0,41.114599,1202,946.396,537.915
+367,2022,4,Mujer,7. Población desocupada por:,7.2 Nivel de instrucción,Primaria completa,,4014.0,52.643792,2113,4901.604,7490.085
+368,2022,4,Hombre,7. Población desocupada por:,7.2 Nivel de instrucción,Secundaria completa,,20145.0,14.781772,2977,15246.539,10901.502
+369,2022,4,Mujer,7. Población desocupada por:,7.2 Nivel de instrucción,Secundaria completa,,15902.0,19.115939,3039,25043.461,20902.498
+370,2022,4,Hombre,7. Población desocupada por:,7.2 Nivel de instrucción,Medio superior y superior,,19114.0,19.010843,3633,13136.51,6975.911
+371,2022,4,Mujer,7. Población desocupada por:,7.2 Nivel de instrucción,Medio superior y superior,,10953.0,22.073253,2417,25091.49,14930.089
+372,2022,4,Hombre,7. Población desocupada por:,7.2 Nivel de instrucción,No especificado,,0.0,0,0,0,0
+373,2022,4,Mujer,7. Población desocupada por:,7.2 Nivel de instrucción,No especificado,,433.0,0,0,0,0
+374,2022,4,Hombre,7. Población desocupada por:,7.3 Antecedente laboral,, ,42582.0,11.309893,4815,34659.715,24412.634
+375,2022,4,Mujer,7. Población desocupada por:,7.3 Antecedente laboral,, ,31842.0,14.183569,4516,50504.285,39271.366
+376,2022,4,Hombre,7. Población desocupada por:,7.3 Antecedente laboral,Con experiencia,,37728.0,11.263341,4249,30737.682,22174.097
+377,2022,4,Mujer,7. Población desocupada por:,7.3 Antecedente laboral,Con experiencia,,29160.0,14.563613,4246,44718.318,36145.903
+378,2022,4,Hombre,7. Población desocupada por:,7.3 Antecedente laboral,Con experiencia,Perdió o terminó su empleo,16144.0,17.756771,2866,11428.356,4385.142
+379,2022,4,Mujer,7. Población desocupada por:,7.3 Antecedente laboral,Con experiencia,Perdió o terminó su empleo,7855.0,26.85342,2109,20859.644,11324.858
+380,2022,4,Hombre,7. Población desocupada por:,7.3 Antecedente laboral,Con experiencia,Renunció o dejó su empleo,16461.0,16.928012,2786,11877.174,13238.341
+381,2022,4,Mujer,7. Población desocupada por:,7.3 Antecedente laboral,Con experiencia,Renunció o dejó su empleo,18463.0,17.202428,3176,21044.826,23687.659
+382,2022,4,Hombre,7. Población desocupada por:,7.3 Antecedente laboral,Con experiencia,Dejó o cerró un negocio propio,1699.0,49.92239,848,303.742,64.446
+383,2022,4,Mujer,7. Población desocupada por:,7.3 Antecedente laboral,Con experiencia,Dejó o cerró un negocio propio,1394.0,57.979864,808,3094.258,2723.554
+384,2022,4,Hombre,7. Población desocupada por:,7.3 Antecedente laboral,Con experiencia,Otro,3424.0,38.996519,1335,1227.529,57.76
+385,2022,4,Mujer,7. Población desocupada por:,7.3 Antecedente laboral,Con experiencia,Otro,1448.0,58.365384,845,5620.471,2838.24
+386,2022,4,Hombre,7. Población desocupada por:,7.3 Antecedente laboral,Sin experiencia,,4854.0,38.539181,1870,1776.712,853.833
+387,2022,4,Mujer,7. Población desocupada por:,7.3 Antecedente laboral,Sin experiencia,,2682.0,41.437286,1111,7931.288,4510.167
+388,2022,4,Hombre,7. Población desocupada por:,7.4 Duración del desempleo,, ,42582.0,11.309893,4815,34659.715,24412.634
+389,2022,4,Mujer,7. Población desocupada por:,7.4 Duración del desempleo,, ,31842.0,14.183569,4516,50504.285,39271.366
+390,2022,4,Hombre,7. Población desocupada por:,7.4 Duración del desempleo,Hasta 1 mes,,24478.0,13.831565,3385,18908.539,16894.415
+391,2022,4,Mujer,7. Población desocupada por:,7.4 Duración del desempleo,Hasta 1 mes,,22452.0,15.047527,3378,30047.461,28009.585
+392,2022,4,Hombre,7. Población desocupada por:,7.4 Duración del desempleo,Más de 1 mes hasta 3 meses,,12978.0,21.807257,2830,8322.41,4454.314
+393,2022,4,Mujer,7. Población desocupada por:,7.4 Duración del desempleo,Más de 1 mes hasta 3 meses,,8042.0,27.119673,2180,17633.59,11629.686
+394,2022,4,Hombre,7. Población desocupada por:,7.4 Duración del desempleo,Más de 3 meses hasta 6 meses,,794.0,70.718753,561,-,-
+395,2022,4,Mujer,7. Población desocupada por:,7.4 Duración del desempleo,Más de 3 meses hasta 6 meses,,1348.0,73.243294,987,-,-
+396,2022,4,Hombre,7. Población desocupada por:,7.4 Duración del desempleo,Más de 6 meses hasta 1 año,,2995.0,42.01921,1258,924.808,0
+397,2022,4,Mujer,7. Población desocupada por:,7.4 Duración del desempleo,Más de 6 meses hasta 1 año,,0.0,0,0,5065.192,0
+398,2022,4,Hombre,7. Población desocupada por:,7.4 Duración del desempleo,Más de 1 año,,435.0,100,435,-,0
+399,2022,4,Mujer,7. Población desocupada por:,7.4 Duración del desempleo,Más de 1 año,,0.0,0,0,-,0
+400,2022,4,Hombre,7. Población desocupada por:,7.4 Duración del desempleo,No especificado,,902.0,0,0,0,0
+401,2022,4,Mujer,7. Población desocupada por:,7.4 Duración del desempleo,No especificado,,0.0,0,0,0,0
+402,2022,4,Hombre,8. Población no económicamente activa,No especificado,, ,408526.0,3.614606,14766,384234.934,913584.954
+403,2022,4,Mujer,8. Población no económicamente activa,No especificado,, ,947044.0,2.147719,20339,432817.066,980503.046
+404,2022,4,Hombre,8. Población no económicamente activa,Disponible,, ,48094.0,10.305772,4956,39940.626,79801.439
+405,2022,4,Mujer,8. Población no económicamente activa,Disponible,, ,92414.0,8.29659,7667,56247.374,105026.561
+406,2022,4,Hombre,8. Población no económicamente activa,Disponible,Disponible para trabajar que ha desistido de buscar empleo, ,2397.0,40.855004,979,786.061,953.973
+407,2022,4,Mujer,8. Población no económicamente activa,Disponible,Disponible para trabajar que ha desistido de buscar empleo, ,3412.0,43.793702,1494,4007.939,5870.027
+408,2022,4,Hombre,8. Población no económicamente activa,Disponible,Disponible para trabajar que no busca empleo por considerar que no tiene posibilidades, ,45697.0,10.656928,4869,37686.02,76881.722
+409,2022,4,Mujer,8. Población no económicamente activa,Disponible,Disponible para trabajar que no busca empleo por considerar que no tiene posibilidades, ,89002.0,8.27841,7367,53707.98,101122.278
+410,2022,4,Hombre,8. Población no económicamente activa,No disponible,, ,360432.0,3.975363,14328,336861.652,822078.688
+411,2022,4,Mujer,8. Población no económicamente activa,No disponible,, ,854630.0,2.315392,19788,384002.348,887181.312
+412,2022,4,Hombre,8. Población no económicamente activa,No disponible,"Con interés para trabajar, pero bajo un contexto que le impide hacerlo 14", ,26529.0,14.386451,3816,20250.723,57363.741
+413,2022,4,Mujer,8. Población no económicamente activa,No disponible,"Con interés para trabajar, pero bajo un contexto que le impide hacerlo 14", ,66940.0,8.696496,5821,32807.277,76516.259
+414,2022,4,Hombre,8. Población no económicamente activa,No disponible,Sin interés para trabajar por atender otras obligaciones, ,296990.0,4.408898,13093,275450.393,709819.09
+415,2022,4,Mujer,8. Población no económicamente activa,No disponible,Sin interés para trabajar por atender otras obligaciones, ,741356.0,2.585988,19171,318529.607,772892.91
+416,2022,4,Hombre,8. Población no económicamente activa,No disponible,Con impedimentos físicos para trabajar, ,7863.0,23.691604,1862,4798.578,8099.718
+417,2022,4,Mujer,8. Población no económicamente activa,No disponible,Con impedimentos físicos para trabajar, ,11881.0,19.347289,2298,10927.422,15662.282
+418,2022,4,Hombre,8. Población no económicamente activa,No disponible,Otros, ,29050.0,12.928867,3755,22871.65,26974.2
+419,2022,4,Mujer,8. Población no económicamente activa,No disponible,Otros, ,34453.0,13.195899,4546,35228.35,41931.8
+420,2022,4,Hombre,9. Promedios y medianas,No disponible,, ,,,,,
+421,2022,4,Mujer,9. Promedios y medianas,No disponible,, ,,,,,
+422,2022,4,Hombre,9. Promedios y medianas,Edad de la población económicamente activa,, ,,,,,
+423,2022,4,Mujer,9. Promedios y medianas,Edad de la población económicamente activa,, ,,,,,
+424,2022,4,Hombre,9. Promedios y medianas,Edad de la población económicamente activa,Promedio, ,39.882109,0.643271,0.2565500791,39.46,38.541
+425,2022,4,Mujer,9. Promedios y medianas,Edad de la población económicamente activa,Promedio, ,39.063345,0.812207,0.3172752319,40.304,39.585
+426,2022,4,Hombre,9. Promedios y medianas,Edad de la población económicamente activa,Mediana, ,40.0,0.75988,0.3039514,39,38
+427,2022,4,Mujer,9. Promedios y medianas,Edad de la población económicamente activa,Mediana, ,39.0,1.55872,0.6079027,40,40
+428,2022,4,Hombre,9. Promedios y medianas,Años de escolaridad de la población económicamente activa,, ,,,,,
+429,2022,4,Mujer,9. Promedios y medianas,Años de escolaridad de la población económicamente activa,, ,,,,,
+430,2022,4,Hombre,9. Promedios y medianas,Años de escolaridad de la población económicamente activa,Promedio, ,11.674617,0.758748,0.088580906,11.529,11.641
+431,2022,4,Mujer,9. Promedios y medianas,Años de escolaridad de la población económicamente activa,Promedio, ,11.817154,0.907217,0.10720727,11.82,11.994
+432,2022,4,Hombre,9. Promedios y medianas,Años de escolaridad de la población económicamente activa,Mediana, ,11.0,-,-,-,11
+433,2022,4,Mujer,9. Promedios y medianas,Años de escolaridad de la población económicamente activa,Mediana, ,11.0,2.76319,0.3039514,-,12
+434,2022,4,Hombre,9. Promedios y medianas,Horas trabajadas a la semana por la población ocupada,, ,,,,,
+435,2022,4,Mujer,9. Promedios y medianas,Horas trabajadas a la semana por la población ocupada,, ,,,,,
+436,2022,4,Hombre,9. Promedios y medianas,Horas trabajadas a la semana por la población ocupada,Promedio, ,46.085632,0.658925,0.303669874,45.586,38.536
+437,2022,4,Mujer,9. Promedios y medianas,Horas trabajadas a la semana por la población ocupada,Promedio, ,39.175678,0.992427,0.3887901926,46.585,39.815
+438,2022,4,Hombre,9. Promedios y medianas,Horas trabajadas a la semana por la población ocupada,Mediana, ,48.0,-,-,-,-
+439,2022,4,Mujer,9. Promedios y medianas,Horas trabajadas a la semana por la población ocupada,Mediana, ,40.0,-,-,-,-
+440,2022,4,Hombre,9. Promedios y medianas,Ingreso (pesos) por hora trabajada de la población ocupada,, ,,,,,
+441,2022,4,Mujer,9. Promedios y medianas,Ingreso (pesos) por hora trabajada de la población ocupada,, ,,,,,
+442,2022,4,Hombre,9. Promedios y medianas,Ingreso (pesos) por hora trabajada de la población ocupada,Promedio, ,68.770881,3.402141,2.3396824779,64.922,61.241
+443,2022,4,Mujer,9. Promedios y medianas,Ingreso (pesos) por hora trabajada de la población ocupada,Promedio, ,65.012077,3.526561,2.2926906735,72.62,68.784
+444,2022,4,Hombre,9. Promedios y medianas,Ingreso (pesos) por hora trabajada de la población ocupada,Mediana, ,50.0,1.02128,0.5106383,50,45
+445,2022,4,Mujer,9. Promedios y medianas,Ingreso (pesos) por hora trabajada de la población ocupada,Mediana, ,46.512,3.26745,1.5197568,51.68,50
+446,2022,4,Hombre,9. Promedios y medianas,Ingreso (pesos) por hora trabajada de la población ocupada,, ,144.371852,14.448218,20.8591600286,110.059,74.171
+447,2022,4,Mujer,9. Promedios y medianas,Ingreso (pesos) por hora trabajada de la población ocupada,, ,156.379843,31.957428,49.9749758173,178.685,238.589
+448,2022,4,Hombre,9. Promedios y medianas,Ingreso (pesos) por hora trabajada de la población ocupada,, ,96.977,9.50935,9.2218845,83.25,57.7
+449,2022,4,Mujer,9. Promedios y medianas,Ingreso (pesos) por hora trabajada de la población ocupada,, ,83.333,30.61654,25.5136778,113.59,141.64
+450,2022,4,Hombre,9. Promedios y medianas,Ingreso (pesos) por hora trabajada de la población ocupada,, ,85.963734,12.352841,10.6189635635,68.496,64.673
+451,2022,4,Mujer,9. Promedios y medianas,Ingreso (pesos) por hora trabajada de la población ocupada,, ,77.697563,10.190179,7.9175204934,103.432,90.722
+452,2022,4,Hombre,9. Promedios y medianas,Ingreso (pesos) por hora trabajada de la población ocupada,, ,54.348,6.99086,3.7993921,50,42.85
+453,2022,4,Mujer,9. Promedios y medianas,Ingreso (pesos) por hora trabajada de la población ocupada,, ,50.0,10.42553,5.212766,62.5,60
+454,2022,4,Hombre,9. Promedios y medianas,Ingreso (pesos) por hora trabajada de la población ocupada,, ,68.814705,8.15394,5.6111098564,59.584,62.577
+455,2022,4,Mujer,9. Promedios y medianas,Ingreso (pesos) por hora trabajada de la población ocupada,, ,76.06275,10.777793,8.1978858426,78.045,89.548
+456,2022,4,Hombre,9. Promedios y medianas,Ingreso (pesos) por hora trabajada de la población ocupada,, ,50.0,3.55623,1.7781155,49.83,41.67
+457,2022,4,Mujer,9. Promedios y medianas,Ingreso (pesos) por hora trabajada de la población ocupada,, ,50.0,11.1307,5.5653495,55.68,59.98
+458,2022,4,Hombre,9. Promedios y medianas,Ingreso (pesos) por hora trabajada de la población ocupada,, ,61.53594,2.364432,1.4549752883,59.143,56.024
+459,2022,4,Mujer,9. Promedios y medianas,Ingreso (pesos) por hora trabajada de la población ocupada,, ,58.862345,2.931029,1.7252724169,63.929,61.7
+460,2022,4,Hombre,9. Promedios y medianas,Ingreso (pesos) por hora trabajada de la población ocupada,, ,50.0,1.62918,0.8145897,47.32,43.74
+461,2022,4,Mujer,9. Promedios y medianas,Ingreso (pesos) por hora trabajada de la población ocupada,, ,45.524,1.84945,0.8419453,50,46.51
+462,2022,4,Hombre,9. Promedios y medianas,Ingreso (pesos) por hora trabajada de la población ocupada,, ,107.812777,35.3703,38.1337031568,45.083,61.323
+463,2022,4,Mujer,9. Promedios y medianas,Ingreso (pesos) por hora trabajada de la población ocupada,, ,109.730137,26.817327,29.4266893485,170.543,158.137
+464,2022,4,Hombre,9. Promedios y medianas,Ingreso (pesos) por hora trabajada de la población ocupada,, ,49.412,24.92534,12.3161094,37.5,37.5
+465,2022,4,Mujer,9. Promedios y medianas,Ingreso (pesos) por hora trabajada de la población ocupada,, ,48.195,24.54567,11.8297872,78.02,76.42
+466,2022,4,Hombre,10. Tasas,Ingreso (pesos) por hora trabajada de la población ocupada,, ,,,,,
+467,2022,4,Mujer,10. Tasas,Ingreso (pesos) por hora trabajada de la población ocupada,, ,,,,,
+468,2022,4,Hombre,10. Tasas,Tasas calculadas contra la población en edad de trabajar,, ,,,,,
+469,2022,4,Mujer,10. Tasas,Tasas calculadas contra la población en edad de trabajar,, ,,,,,
+470,2022,4,Hombre,10. Tasas,Tasas calculadas contra la población en edad de trabajar,Tasa de participación, ,75.9011,1.042329,0.79113905,74.6,45.367
+471,2022,4,Mujer,10. Tasas,Tasas calculadas contra la población en edad de trabajar,Tasa de participación, ,46.8417,1.91427,0.89667772,77.203,48.317
+472,2022,4,Hombre,10. Tasas,Tasas calculadas contra la población económicamente activa,, ,,,,,
+473,2022,4,Mujer,10. Tasas,Tasas calculadas contra la población económicamente activa,, ,,,,,
+474,2022,4,Hombre,10. Tasas,Tasas calculadas contra la población económicamente activa,Tasa de desocupación, ,3.3094,11.033202,0.36513775,2.709,2.951
+475,2022,4,Mujer,10. Tasas,Tasas calculadas contra la población económicamente activa,Tasa de desocupación, ,3.8156,13.774131,0.52557169,3.91,4.68
+476,2022,4,Hombre,10. Tasas,Tasas calculadas contra la población económicamente activa,Tasa de ocupación parcial y desocupación 1 (TOPD1), ,5.8809,8.181756,0.48115819,5.089,10.349
+477,2022,4,Mujer,10. Tasas,Tasas calculadas contra la población económicamente activa,Tasa de ocupación parcial y desocupación 1 (TOPD1), ,11.7704,7.341066,0.86406935,6.672,13.192
+478,2022,4,Hombre,10. Tasas,Tasas calculadas contra la población económicamente activa,Tasa de presión general (TPRG), ,6.2423,8.228278,0.51363068,5.397,6.174
+479,2022,4,Mujer,10. Tasas,Tasas calculadas contra la población económicamente activa,Tasa de presión general (TPRG), ,7.4085,10.128323,0.75035896,7.087,8.643
+480,2022,4,Hombre,10. Tasas,Tasas calculadas contra la población ocupada,, ,,,,,
+481,2022,4,Mujer,10. Tasas,Tasas calculadas contra la población ocupada,, ,,,,,
+482,2022,4,Hombre,10. Tasas,Tasas calculadas contra la población ocupada,Tasa de trabajo asalariado, ,77.466,1.177435,0.91211186,75.966,76.235
+483,2022,4,Mujer,10. Tasas,Tasas calculadas contra la población ocupada,Tasa de trabajo asalariado, ,78.1326,1.47626,1.15344038,78.966,80.03
+484,2022,4,Hombre,10. Tasas,Tasas calculadas contra la población ocupada,Tasa de subocupación, ,4.0433,11.343231,0.45864401,3.289,3.672
+485,2022,4,Mujer,10. Tasas,Tasas calculadas contra la población ocupada,Tasa de subocupación, ,4.8098,14.377744,0.69154394,4.798,5.947
+486,2022,4,Hombre,10. Tasas,Tasas calculadas contra la población ocupada,Tasa de condiciones críticas de ocupación (TCCO), ,14.194,5.117425,0.72636973,12.999,11.83
+487,2022,4,Mujer,10. Tasas,Tasas calculadas contra la población ocupada,Tasa de condiciones críticas de ocupación (TCCO), ,13.2569,6.544358,0.86757769,15.389,14.684
+488,2022,4,Hombre,10. Tasas,Tasas calculadas contra la población ocupada,Tasa de ocupación en el sector informal 1 (TOSI1), ,20.4448,4.225476,0.86388827,19.024,17.607
+489,2022,4,Mujer,10. Tasas,Tasas calculadas contra la población ocupada,Tasa de ocupación en el sector informal 1 (TOSI1), ,19.4083,5.642423,1.09510112,21.866,21.21
+490,2022,4,Hombre,10. Tasas,Tasas calculadas contra la población ocupada,Tasa de informalidad laboral 1 (TIL1), ,31.6115,3.162425,0.99968893,29.967,34.892
+491,2022,4,Mujer,10. Tasas,Tasas calculadas contra la población ocupada,Tasa de informalidad laboral 1 (TIL1), ,37.0545,3.547797,1.31461705,33.256,39.217
+492,2022,4,Hombre,10. Tasas,Tasas calculadas contra la población ocupada no agropecuaria,, ,,,,,
+493,2022,4,Mujer,10. Tasas,Tasas calculadas contra la población ocupada no agropecuaria,, ,,,,,
+494,2022,4,Hombre,10. Tasas,Tasas calculadas contra la población ocupada no agropecuaria,Tasa de ocupación en el sector informal 2 (TOSI2), ,20.4926,4.217496,0.86427628,19.071,17.607
+495,2022,4,Mujer,10. Tasas,Tasas calculadas contra la población ocupada no agropecuaria,Tasa de ocupación en el sector informal 2 (TOSI2), ,19.4083,5.642423,1.09510112,21.914,21.21
+496,2022,4,Hombre,10. Tasas,Tasas calculadas contra la población ocupada no agropecuaria,Tasa de informalidad laboral 2 (TIL2), ,31.5525,3.182571,1.00418052,29.901,34.892
+497,2022,4,Mujer,10. Tasas,Tasas calculadas contra la población ocupada no agropecuaria,Tasa de informalidad laboral 2 (TIL2), ,37.0545,3.547797,1.31461705,33.204,39.217
