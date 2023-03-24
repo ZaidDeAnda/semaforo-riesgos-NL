@@ -11,7 +11,7 @@ st.set_page_config(layout="wide")
 st.header('Precios promedio de los alimentos.')
 
 try:
-    ratios_df, comparison_month, top_6_items = calculate_ratio()
+    ratios_df, comparison_month, top_6_items = calculate_ratio("alimentos")
 
     st.subheader(f'Comparación realizada del mes {months[comparison_month]} del presente año contra el año pasado')
 
@@ -35,7 +35,7 @@ try:
             column.write(f'Ratio de inflación = {int(top_6_items[keys[i+(3*j)]]["ratio"])}%')
             column.image(f'{top_6_items[keys[i+(3*j)]]["url"]}')
 
-    fig = px.bar(ratios_df, x='ratio', y = ratios_df.index, color = 'Nombre ciudad', color_continuous_scale=['green', 'yellow', 'red'], barmode='group',hover_data=ratios_df.columns.tolist())
+    fig = px.bar(ratios_df, x='ratio', y = ratios_df.index, color = 'Nombre ciudad', barmode='group',hover_data=ratios_df.columns.tolist())
 
     updated_text = [f'{round(val, 1)}%' for val in ratios_df['ratio']]
 

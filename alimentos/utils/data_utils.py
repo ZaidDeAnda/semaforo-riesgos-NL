@@ -46,7 +46,7 @@ def load_inegi_df(path : str):
     df['Unidad'] = df['Unidad'].str.replace(' ', '')
     if df["Fecha_Pub_DOF"].isnull().values.any():
         df["Fecha_Pub_DOF"] = datetime.datetime.strftime(datetime.datetime.now(),'%d/%m/%Y')
-    df = df.loc[(df['Unidad'] == "KG") | (df['Unidad'] == "LT")]
+    df = df.loc[(df['Unidad'] == "KG") | (df['Unidad'] == "LT") | (df['Unidad'] == "VIAJE") | (df['Unidad'] == "BOLETO") | (df['Unidad'] == "SERV")]
     for food in food_groups.keys():
         df = substitute_group_with_mean(df, food)
     return df
@@ -73,18 +73,18 @@ def add_url_to_top_dict(top_dict):
         }
     return top_dict
 
-def calculate_ratio():
-    df_last = load_inegi_df('alimentos/data/Inegi_inflacion_last_year.csv')
-    df_current = load_inegi_df('alimentos/data/Inegi_inflacion_current_year.csv')
+def calculate_ratio(category):
+    df_last = load_inegi_df(f'{category}/data/Inegi_inflacion_last_year.csv')
+    df_current = load_inegi_df(f'{category}/data/Inegi_inflacion_current_year.csv')
     df_mean = get_mean_df(df_last, df_current)
     comparison_month = df_last.iloc[0]['Mes']
     current_year = df_current.iloc[0]['Año']
     last_year = int(current_year)-1
-    print(current_year, last_year)
     df_separated = separate_df(df_mean, current_year, last_year)
     df_separated['ratio'] = ((df_separated[f'Precio promedio {current_year}']/df_separated[f'Precio promedio {last_year}']) - 1) * 100
     df_separated = df_separated.reset_index(level='Nombre ciudad')
     df_ordered = df_separated.sort_values('ratio', ascending=False)
     top_6_items = df_ordered.loc[df_ordered['Nombre ciudad'] == 'Monterrey, N.L.'].head(6)['ratio'].to_dict()
-    top_6_items = add_url_to_top_dict(top_6_items)
+    if category == "alimentos":
+        top_6_items = add_url_to_top_dict(top_6_items)
     return df_ordered, comparison_month, top_6_items
