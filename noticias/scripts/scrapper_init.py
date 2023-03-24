@@ -1,7 +1,10 @@
 import os
 import pandas as pd
+import sys
 
-from utils.scrapper_utils import scrap_news
+sys.path.append(f"{os.getcwd()}")
+
+from noticias.utils.scrapper_utils import scrap_news
 
 #Hay que automatizar esto
 

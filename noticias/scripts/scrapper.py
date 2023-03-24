@@ -1,8 +1,11 @@
 import os
 import pandas as pd
 import datetime
+import sys
 
-from utils.scrapper_utils import scrap_news
+sys.path.append(f"{os.getcwd()}")
+
+from noticias.utils.scrapper_utils import scrap_news
 
 today_date = datetime.datetime.now()
 today_date_str = datetime.datetime.strftime(today_date, '%d-%m-%Y')

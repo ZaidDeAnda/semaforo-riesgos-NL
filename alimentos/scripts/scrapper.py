@@ -4,8 +4,11 @@ import datetime
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from bs4 import BeautifulSoup
+import sys
 
-from utils.scrapper_utils import scrap_alimentos
+sys.path.append(f"{os.getcwd()}")
+
+from alimentos.utils.scrapper_utils import scrap_alimentos
 
 current_path = f"{os.getcwd()}/alimentos/data"
 print(current_path)
@@ -29,6 +32,6 @@ lastMonth = one_month_ago.month
 lastMonth = f"0{lastMonth}" if lastMonth < 10 else str(lastMonth)
 year = one_month_ago.year
 
-print(f"Se scrappearan datos desde {year-1}{lastMonth} hasta {year}{lastMonth}")
+print(f"Se scrappearan datos desde {year-1}-{lastMonth} hasta {year}-{lastMonth}")
 
 scrap_alimentos(browser=browser, fecha_1=f"{year-1}{lastMonth}", fecha_2=f"{year}{lastMonth}")

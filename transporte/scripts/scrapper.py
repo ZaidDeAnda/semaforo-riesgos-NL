@@ -2,13 +2,14 @@ import time
 import os
 import datetime
 import sys
-sys.path.append(f"{os.getcwd()}")
 
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from bs4 import BeautifulSoup
 
-from utils.scrapper_utils import scrap_alimentos
+sys.path.append(f"{os.getcwd()}")
+
+from transporte.utils.scrapper_utils import scrap_alimentos
 
 current_path = f"{os.getcwd()}/transporte/data"
 print(current_path)
