@@ -1,5 +1,3 @@
-from unidecode import unidecode
-
 import pandas as pd
 
 new_columns = [
@@ -85,10 +83,10 @@ def read_trimestral_data(filename):
 
 def read_tabulado():
     
-    with open("desempleo/data/Tabulado.csv") as f:
+    with open("desempleo/data/Tabulado.csv", encoding="utf-8") as f:
         data = f.readlines()
 
-    data = [unidecode(line[:-1]) for line in data]
+    data = [line[:-1] for line in data]
 
     data[0] = data[0][1:]
     header = data[0].split(",")[1:]

@@ -104,8 +104,8 @@ with tabulado_column[1]:
 
     st.header("Histórico de desempleo")
 
-    tabulado_df_nacional = tabulado_df.loc[['Nuevo Leon', 'Media']]
-    tabulado_df_nacional.index = ['Nuevo Leon', 'Media nacional']
+    tabulado_df_nacional = tabulado_df.loc[['Nuevo León', 'Media']]
+    tabulado_df_nacional.index = ['Nuevo León', 'Media nacional']
 
     fig = px.line(tabulado_df_nacional.T).update_layout(width=800)
 

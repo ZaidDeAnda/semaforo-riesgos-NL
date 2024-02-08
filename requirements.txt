@@ -1,0 +1,8 @@
+fastapi
+selenium==4.9.0
+pandas
+streamlit
+plotly
+bs4
+openpyxl
+xlrd
